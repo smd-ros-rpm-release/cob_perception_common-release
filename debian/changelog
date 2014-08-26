@@ -1,0 +1,12 @@
+ros-hydro-cob-perception-common (0.5.4-2quantal) quantal; urgency=high
+
+  * unify version number
+  * update changelog
+  * update meta-package
+  * adjust url and provide short form of email
+  * convert stack to metapackge, ignore all pacakges within for now
+  * Contributors: Florian Weisshardt, ipa-fxm, ipa-mig
+
+ -- Richard Bormann <rmb@ipa.fhg.de>  Sun, 24 Aug 2014 22:00:00 -0000
+
+
