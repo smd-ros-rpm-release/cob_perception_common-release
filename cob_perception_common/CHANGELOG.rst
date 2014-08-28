@@ -2,6 +2,20 @@
 Changelog for package cob_perception_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.1 (2014-08-28)
+------------------
+
+0.6.0 (2014-08-28)
+------------------
+* merge
+* 0.5.6
+* 0.5.5
+* update changelog
+* 0.5.5
+* change maintainer
+* update changelog
+* Contributors: Florian Weisshardt
+
 0.5.5 (2014-08-28)
 ------------------
 
