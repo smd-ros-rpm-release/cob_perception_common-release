@@ -16,6 +16,17 @@ Changelog for package cob_object_detection_msgs
 * update changelog
 * Contributors: Florian Weisshardt, Jan Fischer
 
+0.5.10 (2014-08-29)
+-------------------
+* downgrade version for hydro
+* 0.6.1
+* update changelog
+* 0.6.0
+* update changelog
+* 0.5.5
+* update changelog
+* Contributors: Florian Weisshardt
+
 0.5.5 (2014-08-28)
 ------------------
 * Added field ID
