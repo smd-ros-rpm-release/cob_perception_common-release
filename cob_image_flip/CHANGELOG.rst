@@ -2,6 +2,9 @@
 Changelog for package cob_image_flip
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.11 (2014-09-01)
+-------------------
+
 0.6.1 (2014-08-28)
 ------------------
 * Merge branch 'indigo_dev' into indigo_release_candidate
