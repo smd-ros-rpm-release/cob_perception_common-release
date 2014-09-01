@@ -2,6 +2,17 @@
 Changelog for package cob_vision_utils
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.2 (2014-09-01)
+------------------
+* add tinyxml to package.xml
+* Update package.xml
+* increase version number for indigo
+* 0.5.10
+* update changelog
+* downgrade version for hydro
+* using opencv2 instead of libopencv-dev for hydro version (should not be merged into indigo)
+* Contributors: Florian Weisshardt
+
 0.6.1 (2014-08-28)
 ------------------
 * Merge branch 'indigo_dev' into indigo_release_candidate
@@ -15,6 +26,27 @@ Changelog for package cob_vision_utils
 * update changelog
 * merge with hydro
 * missing install tags
+* catkin_lint'ing
+* 0.5.5
+* Merge pull request `#26 <https://github.com/ipa320/cob_perception_common/issues/26>`_ from ipa320/hydro_dev
+  updates from hydro_dev
+* update changelog
+* Merge branch 'hydro_dev' of github.com:ipa320/cob_perception_common into indigo_dev
+* fix wrong opencv dep
+* added install tags
+* Contributors: Alexander Bubeck, Florian Weisshardt, ipa-fxm
+
+0.5.10 (2014-08-29)
+-------------------
+* downgrade version for hydro
+* using opencv2 instead of libopencv-dev for hydro version (should not be merged into indigo)
+* 0.6.1
+* update changelog
+* Merge branch 'indigo_dev' into indigo_release_candidate
+* fix wrong opencv dep - again
+* 0.6.0
+* update changelog
+* merge with hydro
 * catkin_lint'ing
 * 0.5.5
 * Merge pull request `#26 <https://github.com/ipa320/cob_perception_common/issues/26>`_ from ipa320/hydro_dev
