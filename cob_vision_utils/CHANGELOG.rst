@@ -2,6 +2,11 @@
 Changelog for package cob_vision_utils
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.3 (2014-09-08)
+------------------
+* add tinyxml to package.xml
+* Contributors: Florian Weisshardt
+
 0.6.2 (2014-09-01)
 ------------------
 * add tinyxml to package.xml
