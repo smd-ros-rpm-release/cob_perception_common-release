@@ -1,0 +1,44 @@
+ros-hydro-cob-perception-msgs (0.5.12-0precise) precise; urgency=high
+
+  * cleanup changelog
+  * Contributors: Florian Weisshardt
+
+ -- Richard Bormann <rmb@ipa.fhg.de>  Sun, 07 Sep 2014 22:00:00 -0000
+
+ros-hydro-cob-perception-msgs (0.5.11-0precise) precise; urgency=high
+
+
+
+ -- Richard Bormann <rmb@ipa.fhg.de>  Sun, 31 Aug 2014 22:00:00 -0000
+
+ros-hydro-cob-perception-msgs (0.5.10-0precise) precise; urgency=high
+
+  * downgrade version for hydro
+  * 0.6.1
+  * update changelog
+  * 0.6.0
+  * update changelog
+  * 0.5.5
+  * update changelog
+  * Contributors: Florian Weisshardt
+
+ -- Richard Bormann <rmb@ipa.fhg.de>  Thu, 28 Aug 2014 22:00:00 -0000
+
+ros-hydro-cob-perception-msgs (0.5.5-0precise) precise; urgency=high
+
+
+
+ -- Richard Bormann <rmb@ipa.fhg.de>  Wed, 27 Aug 2014 22:00:00 -0000
+
+ros-hydro-cob-perception-msgs (0.5.4-0precise) precise; urgency=high
+
+  * unify version number
+  * update changelog
+  * catkinize cob_perception_msgs
+  * convert stack to metapackge, ignore all pacakges within for now
+  * added cob_perception_msgs package
+  * Contributors: Florian Weisshardt, Richard Bormann, ipa-mig
+
+ -- Richard Bormann <rmb@ipa.fhg.de>  Sun, 24 Aug 2014 22:00:00 -0000
+
+
